@@ -1,0 +1,39 @@
+[
+  {
+    "marca": "Honda",
+    "modelo": "CBR",
+    "año": 2020,
+    "color": "Rojo",
+    "cilindraje": "600cc",
+    "imagen": "https://soymotero.net/wp-content/uploads/2023/11/458099_24YMHONDACBR600RR.jpg",
+    "descripcion": "Diseñada para ofrecer una experiencia emocionante tanto en ciudad como en pista, la Honda CBR 600 combina potencia, agilidad y estilo deportivo en una sola máquina."
+
+  },
+  {
+    "marca": "Yamaha",
+    "modelo": "R6",
+    "año": 2025,
+    "color": "Azul",
+    "cilindraje": "600cc",
+    "imagen": "https://dhqlmcogwd1an.cloudfront.net/images/phocagallery/Yamaha_Motor_Corporation/yzf-r6-2020/01-yamaha-yzf-r6-2020-estudio-azul.jpg",
+     "descripcion": "La Yamaha R6 es sinónimo de precisión y velocidad, ideal para quienes buscan sensaciones fuertes y un control absoluto en cada curva."
+  },
+  {
+    "marca": "Yamaha",
+    "modelo": "Vstar",
+    "año": 2015,
+    "color": "Azul",
+    "cilindraje": "1100cc",
+    "imagen": "https://fichasmasmoto.com/wp-content/uploads/2019/11/yamaha-xvs-a-1100-dragstar_975_01.jpg",
+     "descripcion": "Con un diseño clásico y un motor potente, la Yamaha Vstar 1100 es perfecta para viajes largos y una conducción cómoda con estilo custom."
+  },
+  {
+    "marca": "Kawasaki",
+    "modelo": "Ninja H2R",
+    "año": 2022,
+    "color": "Azul",
+    "cilindraje": "600cc",
+    "imagen": "https://kukuruchos.com/wp-content/uploads/2022/08/NinjaH2-Galeria08-copia.jpeg",
+     "descripcion": "La Ninja H2R es una bestia sobre ruedas, diseñada para la pista con tecnología de supercargador y una aceleración brutal que desafía los límites."
+  }
+]
